@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="17" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-29T13:59:22 IST" name="Default suite" finished-at="2022-04-29T14:02:38 IST" duration-ms="196104">
+    <groups>
+    </groups>
+    <test started-at="2022-04-29T13:59:22 IST" name="Default test" finished-at="2022-04-29T14:02:38 IST" duration-ms="196104">
+      <class name="test.LoginTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T13:59:22 IST" name="beforeTest" finished-at="2022-04-29T13:59:36 IST" duration-ms="14812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="register()[pri:0, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T13:59:37 IST" name="register" finished-at="2022-04-29T13:59:50 IST" duration-ms="13022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="registerFillFormFirstName()[pri:1, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T13:59:50 IST" name="registerFillFormFirstName" finished-at="2022-04-29T14:00:00 IST" duration-ms="10271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormFirstName -->
+        <test-method signature="registerFillFormLastName()[pri:2, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:00:00 IST" name="registerFillFormLastName" finished-at="2022-04-29T14:00:10 IST" duration-ms="10184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormLastName -->
+        <test-method signature="registerFillFormEmail()[pri:3, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:00:10 IST" name="registerFillFormEmail" finished-at="2022-04-29T14:00:20 IST" duration-ms="10375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormEmail -->
+        <test-method signature="registerFillFormTelephone()[pri:4, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:00:20 IST" name="registerFillFormTelephone" finished-at="2022-04-29T14:00:31 IST" duration-ms="10318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormTelephone -->
+        <test-method signature="registerFillFormFax()[pri:5, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:00:31 IST" name="registerFillFormFax" finished-at="2022-04-29T14:00:41 IST" duration-ms="10154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormFax -->
+        <test-method signature="registerFillFormCompany()[pri:6, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:00:41 IST" name="registerFillFormCompany" finished-at="2022-04-29T14:00:51 IST" duration-ms="10216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormCompany -->
+        <test-method signature="registerFillFormAddress1()[pri:7, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:00:51 IST" name="registerFillFormAddress1" finished-at="2022-04-29T14:01:01 IST" duration-ms="10212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormAddress1 -->
+        <test-method signature="registerFillFormAddress2()[pri:8, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:01:01 IST" name="registerFillFormAddress2" finished-at="2022-04-29T14:01:12 IST" duration-ms="10202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormAddress2 -->
+        <test-method signature="registerFillFormCity()[pri:9, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:01:12 IST" name="registerFillFormCity" finished-at="2022-04-29T14:01:22 IST" duration-ms="10274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormCity -->
+        <test-method signature="registerFillFormPostalCode()[pri:10, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:01:22 IST" name="registerFillFormPostalCode" finished-at="2022-04-29T14:01:32 IST" duration-ms="10325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormPostalCode -->
+        <test-method signature="registerFillFormCountry()[pri:11, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:01:32 IST" name="registerFillFormCountry" finished-at="2022-04-29T14:01:43 IST" duration-ms="10447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormCountry -->
+        <test-method signature="registerFillFormPassword()[pri:13, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:01:43 IST" name="registerFillFormPassword" finished-at="2022-04-29T14:01:53 IST" duration-ms="10300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormPassword -->
+        <test-method signature="registerFillFormConfirmPassword()[pri:14, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:01:53 IST" name="registerFillFormConfirmPassword" finished-at="2022-04-29T14:02:03 IST" duration-ms="10301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillFormConfirmPassword -->
+        <test-method signature="newsletterSubscribe()[pri:15, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:02:03 IST" name="newsletterSubscribe" finished-at="2022-04-29T14:02:13 IST" duration-ms="10232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newsletterSubscribe -->
+        <test-method signature="agreeChkBox()[pri:16, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:02:13 IST" name="agreeChkBox" finished-at="2022-04-29T14:02:24 IST" duration-ms="10243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- agreeChkBox -->
+        <test-method signature="continueBtn()[pri:17, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:02:24 IST" name="continueBtn" finished-at="2022-04-29T14:02:37 IST" duration-ms="13630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- continueBtn -->
+        <test-method signature="login()[pri:18, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:02:37 IST" name="login" finished-at="2022-04-29T14:02:37 IST" duration-ms="40" status="FAIL">
+          <exception class="org.openqa.selenium.UnhandledAlertException">
+            <message>
+              <![CDATA[unexpected alert open: {Alert text : 
+error
+undefined}
+  (Session info: chrome=100.0.4896.127): 
+error
+undefined
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SANGEETHA-PC', ip: '192.168.100.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\SANGEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56098}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f6527dc4a1fbfa1c9cd7414e7794c84a
+*** Element info: {Using=xpath, value=(//a[text()='Login'])[1]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : 
+error
+undefined}
+  (Session info: chrome=100.0.4896.127): 
+error
+undefined
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SANGEETHA-PC', ip: '192.168.100.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\SANGEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56098}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f6527dc4a1fbfa1c9cd7414e7794c84a
+*** Element info: {Using=xpath, value=(//a[text()='Login'])[1]}
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy12.click(Unknown Source)
+at pageobject.LoginPage.loginDetails(LoginPage.java:22)
+at test.LoginTest.login(LoginTest.java:12)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.UnhandledAlertException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.LoginTest@7a69b07]" started-at="2022-04-29T14:02:37 IST" name="afterTest" finished-at="2022-04-29T14:02:38 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
