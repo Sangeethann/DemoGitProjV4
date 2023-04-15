@@ -132,5 +132,19 @@ public class RegisterTest extends Base {
 	  obj17.continueBtnDetails();
 	  Thread.sleep(5000);
   }
+  @Test(priority=18)
+  public void continueBtn1() throws InterruptedException
+  {
+	  RegisterPage obj17=new RegisterPage(driver);
+	  obj17.continueBtnDetails();
+	  Thread.sleep(5000);
+  }
+  @Test(priority=19)
+  public void continueBtn2() throws InterruptedException
+  {
+	  RegisterPage obj17=new RegisterPage(driver);
+	  obj17.continueBtnDetails();
+	  Thread.sleep(5000);
+  }
   
 }
